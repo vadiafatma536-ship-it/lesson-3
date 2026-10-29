@@ -1,0 +1,19 @@
+body{
+    
+    background-image: linear-gradient(to bottom pink,blue);
+    background-repeat: no-repeat;
+    background-position: top center;
+
+}
+.page-header{
+    background-image: linear-gradient(to right black gray);
+    text-align: center;
+    color:white;
+    border-radius: 10 px;
+}
+.fact-card{
+    background-color: greenyellow;
+    text-align: center;
+    color:white;
+    border-radius: 10 px;
+}
